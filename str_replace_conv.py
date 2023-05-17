@@ -35,9 +35,9 @@ def str_replace_conv(data, replace_col):
     --------
     str_replace_conv(helper_data,'income')
         name	job	 income
-    0	jesla	teacher	10.0
-    1	jesma	doctor	20.0
-    2	jessal	programmer	30.0
+    0	ella	teacher	10.0
+    1	emma	doctor	20.0
+    2	estel	programmer	30.0
     """
 
     # checks if a dataframe is the type of the object being passed
